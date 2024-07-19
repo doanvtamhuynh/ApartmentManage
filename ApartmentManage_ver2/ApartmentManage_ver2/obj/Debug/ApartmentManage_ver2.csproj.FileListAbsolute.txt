@@ -1,0 +1,568 @@
+c:\users\diem quynh\documents\visual studio 2015\Projects\ApartmentManage_ver2\ApartmentManage_ver2\bin\Debug\ApartmentManage_ver2.exe.config
+c:\users\diem quynh\documents\visual studio 2015\Projects\ApartmentManage_ver2\ApartmentManage_ver2\bin\Debug\ApartmentManage_ver2.exe
+c:\users\diem quynh\documents\visual studio 2015\Projects\ApartmentManage_ver2\ApartmentManage_ver2\bin\Debug\ApartmentManage_ver2.pdb
+c:\users\diem quynh\documents\visual studio 2015\Projects\ApartmentManage_ver2\ApartmentManage_ver2\bin\Debug\DevExpress.BonusSkins.v19.1.dll
+c:\users\diem quynh\documents\visual studio 2015\Projects\ApartmentManage_ver2\ApartmentManage_ver2\bin\Debug\DevExpress.Data.v19.1.dll
+c:\users\diem quynh\documents\visual studio 2015\Projects\ApartmentManage_ver2\ApartmentManage_ver2\bin\Debug\DevExpress.Printing.v19.1.Core.dll
+c:\users\diem quynh\documents\visual studio 2015\Projects\ApartmentManage_ver2\ApartmentManage_ver2\bin\Debug\DevExpress.Sparkline.v19.1.Core.dll
+c:\users\diem quynh\documents\visual studio 2015\Projects\ApartmentManage_ver2\ApartmentManage_ver2\bin\Debug\DevExpress.Utils.v19.1.dll
+c:\users\diem quynh\documents\visual studio 2015\Projects\ApartmentManage_ver2\ApartmentManage_ver2\bin\Debug\DevExpress.XtraBars.v19.1.dll
+c:\users\diem quynh\documents\visual studio 2015\Projects\ApartmentManage_ver2\ApartmentManage_ver2\bin\Debug\DevExpress.XtraEditors.v19.1.dll
+c:\users\diem quynh\documents\visual studio 2015\Projects\ApartmentManage_ver2\ApartmentManage_ver2\bin\Debug\DevExpress.Pdf.v19.1.Core.dll
+c:\users\diem quynh\documents\visual studio 2015\Projects\ApartmentManage_ver2\ApartmentManage_ver2\bin\Debug\DevExpress.Data.v19.1.xml
+c:\users\diem quynh\documents\visual studio 2015\Projects\ApartmentManage_ver2\ApartmentManage_ver2\bin\Debug\DevExpress.Printing.v19.1.Core.xml
+c:\users\diem quynh\documents\visual studio 2015\Projects\ApartmentManage_ver2\ApartmentManage_ver2\bin\Debug\DevExpress.Utils.v19.1.xml
+c:\users\diem quynh\documents\visual studio 2015\Projects\ApartmentManage_ver2\ApartmentManage_ver2\bin\Debug\DevExpress.XtraBars.v19.1.xml
+c:\users\diem quynh\documents\visual studio 2015\Projects\ApartmentManage_ver2\ApartmentManage_ver2\bin\Debug\DevExpress.Sparkline.v19.1.Core.xml
+c:\users\diem quynh\documents\visual studio 2015\Projects\ApartmentManage_ver2\ApartmentManage_ver2\bin\Debug\DevExpress.XtraEditors.v19.1.xml
+c:\users\diem quynh\documents\visual studio 2015\Projects\ApartmentManage_ver2\ApartmentManage_ver2\bin\Debug\DevExpress.Pdf.v19.1.Core.xml
+c:\users\diem quynh\documents\visual studio 2015\Projects\ApartmentManage_ver2\ApartmentManage_ver2\bin\Debug\de\DevExpress.Data.v19.1.resources.dll
+c:\users\diem quynh\documents\visual studio 2015\Projects\ApartmentManage_ver2\ApartmentManage_ver2\bin\Debug\es\DevExpress.Data.v19.1.resources.dll
+c:\users\diem quynh\documents\visual studio 2015\Projects\ApartmentManage_ver2\ApartmentManage_ver2\bin\Debug\ja\DevExpress.Data.v19.1.resources.dll
+c:\users\diem quynh\documents\visual studio 2015\Projects\ApartmentManage_ver2\ApartmentManage_ver2\bin\Debug\ru\DevExpress.Data.v19.1.resources.dll
+c:\users\diem quynh\documents\visual studio 2015\Projects\ApartmentManage_ver2\ApartmentManage_ver2\bin\Debug\de\DevExpress.Printing.v19.1.Core.resources.dll
+c:\users\diem quynh\documents\visual studio 2015\Projects\ApartmentManage_ver2\ApartmentManage_ver2\bin\Debug\es\DevExpress.Printing.v19.1.Core.resources.dll
+c:\users\diem quynh\documents\visual studio 2015\Projects\ApartmentManage_ver2\ApartmentManage_ver2\bin\Debug\ja\DevExpress.Printing.v19.1.Core.resources.dll
+c:\users\diem quynh\documents\visual studio 2015\Projects\ApartmentManage_ver2\ApartmentManage_ver2\bin\Debug\ru\DevExpress.Printing.v19.1.Core.resources.dll
+c:\users\diem quynh\documents\visual studio 2015\Projects\ApartmentManage_ver2\ApartmentManage_ver2\bin\Debug\de\DevExpress.Utils.v19.1.resources.dll
+c:\users\diem quynh\documents\visual studio 2015\Projects\ApartmentManage_ver2\ApartmentManage_ver2\bin\Debug\es\DevExpress.Utils.v19.1.resources.dll
+c:\users\diem quynh\documents\visual studio 2015\Projects\ApartmentManage_ver2\ApartmentManage_ver2\bin\Debug\ja\DevExpress.Utils.v19.1.resources.dll
+c:\users\diem quynh\documents\visual studio 2015\Projects\ApartmentManage_ver2\ApartmentManage_ver2\bin\Debug\ru\DevExpress.Utils.v19.1.resources.dll
+c:\users\diem quynh\documents\visual studio 2015\Projects\ApartmentManage_ver2\ApartmentManage_ver2\bin\Debug\de\DevExpress.XtraBars.v19.1.resources.dll
+c:\users\diem quynh\documents\visual studio 2015\Projects\ApartmentManage_ver2\ApartmentManage_ver2\bin\Debug\es\DevExpress.XtraBars.v19.1.resources.dll
+c:\users\diem quynh\documents\visual studio 2015\Projects\ApartmentManage_ver2\ApartmentManage_ver2\bin\Debug\ja\DevExpress.XtraBars.v19.1.resources.dll
+c:\users\diem quynh\documents\visual studio 2015\Projects\ApartmentManage_ver2\ApartmentManage_ver2\bin\Debug\ru\DevExpress.XtraBars.v19.1.resources.dll
+c:\users\diem quynh\documents\visual studio 2015\Projects\ApartmentManage_ver2\ApartmentManage_ver2\bin\Debug\de\DevExpress.Sparkline.v19.1.Core.resources.dll
+c:\users\diem quynh\documents\visual studio 2015\Projects\ApartmentManage_ver2\ApartmentManage_ver2\bin\Debug\es\DevExpress.Sparkline.v19.1.Core.resources.dll
+c:\users\diem quynh\documents\visual studio 2015\Projects\ApartmentManage_ver2\ApartmentManage_ver2\bin\Debug\ja\DevExpress.Sparkline.v19.1.Core.resources.dll
+c:\users\diem quynh\documents\visual studio 2015\Projects\ApartmentManage_ver2\ApartmentManage_ver2\bin\Debug\ru\DevExpress.Sparkline.v19.1.Core.resources.dll
+c:\users\diem quynh\documents\visual studio 2015\Projects\ApartmentManage_ver2\ApartmentManage_ver2\bin\Debug\de\DevExpress.XtraEditors.v19.1.resources.dll
+c:\users\diem quynh\documents\visual studio 2015\Projects\ApartmentManage_ver2\ApartmentManage_ver2\bin\Debug\es\DevExpress.XtraEditors.v19.1.resources.dll
+c:\users\diem quynh\documents\visual studio 2015\Projects\ApartmentManage_ver2\ApartmentManage_ver2\bin\Debug\ja\DevExpress.XtraEditors.v19.1.resources.dll
+c:\users\diem quynh\documents\visual studio 2015\Projects\ApartmentManage_ver2\ApartmentManage_ver2\bin\Debug\ru\DevExpress.XtraEditors.v19.1.resources.dll
+c:\users\diem quynh\documents\visual studio 2015\Projects\ApartmentManage_ver2\ApartmentManage_ver2\bin\Debug\de\DevExpress.Pdf.v19.1.Core.resources.dll
+c:\users\diem quynh\documents\visual studio 2015\Projects\ApartmentManage_ver2\ApartmentManage_ver2\bin\Debug\es\DevExpress.Pdf.v19.1.Core.resources.dll
+c:\users\diem quynh\documents\visual studio 2015\Projects\ApartmentManage_ver2\ApartmentManage_ver2\bin\Debug\ja\DevExpress.Pdf.v19.1.Core.resources.dll
+c:\users\diem quynh\documents\visual studio 2015\Projects\ApartmentManage_ver2\ApartmentManage_ver2\bin\Debug\ru\DevExpress.Pdf.v19.1.Core.resources.dll
+c:\users\diem quynh\documents\visual studio 2015\Projects\ApartmentManage_ver2\ApartmentManage_ver2\obj\Debug\ApartmentManage_ver2.csprojResolveAssemblyReference.cache
+c:\users\diem quynh\documents\visual studio 2015\Projects\ApartmentManage_ver2\ApartmentManage_ver2\obj\Debug\ApartmentManage_ver2.Properties.Resources.resources
+c:\users\diem quynh\documents\visual studio 2015\Projects\ApartmentManage_ver2\ApartmentManage_ver2\obj\Debug\ApartmentManage_ver2.csproj.GenerateResource.Cache
+c:\users\diem quynh\documents\visual studio 2015\Projects\ApartmentManage_ver2\ApartmentManage_ver2\obj\Debug\ApartmentManage_ver2.exe.licenses
+c:\users\diem quynh\documents\visual studio 2015\Projects\ApartmentManage_ver2\ApartmentManage_ver2\obj\Debug\ApartmentManage_ver2.exe
+c:\users\diem quynh\documents\visual studio 2015\Projects\ApartmentManage_ver2\ApartmentManage_ver2\obj\Debug\ApartmentManage_ver2.pdb
+c:\users\diem quynh\documents\visual studio 2015\Projects\ApartmentManage_ver2\ApartmentManage_ver2\bin\Debug\DevExpress.XtraNavBar.v19.1.dll
+c:\users\diem quynh\documents\visual studio 2015\Projects\ApartmentManage_ver2\ApartmentManage_ver2\bin\Debug\DevExpress.XtraNavBar.v19.1.xml
+c:\users\diem quynh\documents\visual studio 2015\Projects\ApartmentManage_ver2\ApartmentManage_ver2\bin\Debug\de\DevExpress.XtraNavBar.v19.1.resources.dll
+c:\users\diem quynh\documents\visual studio 2015\Projects\ApartmentManage_ver2\ApartmentManage_ver2\bin\Debug\es\DevExpress.XtraNavBar.v19.1.resources.dll
+c:\users\diem quynh\documents\visual studio 2015\Projects\ApartmentManage_ver2\ApartmentManage_ver2\bin\Debug\ja\DevExpress.XtraNavBar.v19.1.resources.dll
+c:\users\diem quynh\documents\visual studio 2015\Projects\ApartmentManage_ver2\ApartmentManage_ver2\bin\Debug\ru\DevExpress.XtraNavBar.v19.1.resources.dll
+C:\Users\Diem Quynh\documents\visual studio 2015\Projects\ApartmentManage_ver2\ApartmentManage_ver2\obj\Debug\ApartmentManage_ver2.GUI.frmDangNhap.resources
+C:\Users\Diem Quynh\documents\visual studio 2015\Projects\ApartmentManage_ver2\ApartmentManage_ver2\obj\Debug\ApartmentManage_ver2.GUI.frmDoiMatKhau.resources
+C:\Users\Diem Quynh\documents\visual studio 2015\Projects\ApartmentManage_ver2\ApartmentManage_ver2\obj\Debug\ApartmentManage_ver2.GUI.frmMain.resources
+C:\Users\Diem Quynh\Documents\Visual Studio 2015\Projects\ApartmentManage_ver2\ApartmentManage_ver2\obj\Debug\ApartmentManage_ver2.GUI.frmQuanLyNhanVien.resources
+C:\Users\Diem Quynh\Documents\Visual Studio 2015\Projects\ApartmentManage_ver2\ApartmentManage_ver2\obj\Debug\ApartmentManage_ver2.frmQuanLyTaiKhoan.resources
+C:\Users\Diem Quynh\Documents\Visual Studio 2015\Projects\ApartmentManage_ver2\ApartmentManage_ver2\obj\Debug\ApartmentManage_ver2.GUI.frmQuanLyCanHo.resources
+C:\Users\Diem Quynh\documents\visual studio 2015\Projects\ApartmentManage_ver2\ApartmentManage_ver2\obj\Debug\ApartmentManage_ver2.GUI.frmQuanLyHoGiaDinh.resources
+C:\Users\Diem Quynh\documents\visual studio 2015\Projects\ApartmentManage_ver2\ApartmentManage_ver2\obj\Debug\ApartmentManage_ver2.GUI.frmQuanLyThanhVien.resources
+C:\Users\Diem Quynh\documents\visual studio 2015\Projects\ApartmentManage_ver2\ApartmentManage_ver2\obj\Debug\ApartmentManage_ver2.GUI.frmQuanLyHopDong.resources
+D:\Documents\CDIO397\ApartmentManage_ver2\ApartmentManage_ver2\bin\Debug\ApartmentManage_ver2.exe.config
+D:\Documents\CDIO397\ApartmentManage_ver2\ApartmentManage_ver2\bin\Debug\ApartmentManage_ver2.exe
+D:\Documents\CDIO397\ApartmentManage_ver2\ApartmentManage_ver2\bin\Debug\ApartmentManage_ver2.pdb
+D:\Documents\CDIO397\ApartmentManage_ver2\ApartmentManage_ver2\bin\Debug\DevExpress.BonusSkins.v19.1.dll
+D:\Documents\CDIO397\ApartmentManage_ver2\ApartmentManage_ver2\bin\Debug\DevExpress.Data.v19.1.dll
+D:\Documents\CDIO397\ApartmentManage_ver2\ApartmentManage_ver2\bin\Debug\DevExpress.Printing.v19.1.Core.dll
+D:\Documents\CDIO397\ApartmentManage_ver2\ApartmentManage_ver2\bin\Debug\DevExpress.Sparkline.v19.1.Core.dll
+D:\Documents\CDIO397\ApartmentManage_ver2\ApartmentManage_ver2\bin\Debug\DevExpress.Utils.v19.1.dll
+D:\Documents\CDIO397\ApartmentManage_ver2\ApartmentManage_ver2\bin\Debug\DevExpress.Xpo.v19.1.dll
+D:\Documents\CDIO397\ApartmentManage_ver2\ApartmentManage_ver2\bin\Debug\DevExpress.XtraBars.v19.1.dll
+D:\Documents\CDIO397\ApartmentManage_ver2\ApartmentManage_ver2\bin\Debug\DevExpress.XtraEditors.v19.1.dll
+D:\Documents\CDIO397\ApartmentManage_ver2\ApartmentManage_ver2\bin\Debug\DevExpress.XtraNavBar.v19.1.dll
+D:\Documents\CDIO397\ApartmentManage_ver2\ApartmentManage_ver2\bin\Debug\DevExpress.Pdf.v19.1.Core.dll
+D:\Documents\CDIO397\ApartmentManage_ver2\ApartmentManage_ver2\bin\Debug\DevExpress.Data.v19.1.xml
+D:\Documents\CDIO397\ApartmentManage_ver2\ApartmentManage_ver2\bin\Debug\DevExpress.Printing.v19.1.Core.xml
+D:\Documents\CDIO397\ApartmentManage_ver2\ApartmentManage_ver2\bin\Debug\DevExpress.Utils.v19.1.xml
+D:\Documents\CDIO397\ApartmentManage_ver2\ApartmentManage_ver2\bin\Debug\DevExpress.Xpo.v19.1.xml
+D:\Documents\CDIO397\ApartmentManage_ver2\ApartmentManage_ver2\bin\Debug\DevExpress.XtraBars.v19.1.xml
+D:\Documents\CDIO397\ApartmentManage_ver2\ApartmentManage_ver2\bin\Debug\DevExpress.Sparkline.v19.1.Core.xml
+D:\Documents\CDIO397\ApartmentManage_ver2\ApartmentManage_ver2\bin\Debug\DevExpress.XtraEditors.v19.1.xml
+D:\Documents\CDIO397\ApartmentManage_ver2\ApartmentManage_ver2\bin\Debug\DevExpress.XtraNavBar.v19.1.xml
+D:\Documents\CDIO397\ApartmentManage_ver2\ApartmentManage_ver2\bin\Debug\DevExpress.Pdf.v19.1.Core.xml
+D:\Documents\CDIO397\ApartmentManage_ver2\ApartmentManage_ver2\bin\Debug\de\DevExpress.Data.v19.1.resources.dll
+D:\Documents\CDIO397\ApartmentManage_ver2\ApartmentManage_ver2\bin\Debug\es\DevExpress.Data.v19.1.resources.dll
+D:\Documents\CDIO397\ApartmentManage_ver2\ApartmentManage_ver2\bin\Debug\ja\DevExpress.Data.v19.1.resources.dll
+D:\Documents\CDIO397\ApartmentManage_ver2\ApartmentManage_ver2\bin\Debug\ru\DevExpress.Data.v19.1.resources.dll
+D:\Documents\CDIO397\ApartmentManage_ver2\ApartmentManage_ver2\bin\Debug\de\DevExpress.Printing.v19.1.Core.resources.dll
+D:\Documents\CDIO397\ApartmentManage_ver2\ApartmentManage_ver2\bin\Debug\es\DevExpress.Printing.v19.1.Core.resources.dll
+D:\Documents\CDIO397\ApartmentManage_ver2\ApartmentManage_ver2\bin\Debug\ja\DevExpress.Printing.v19.1.Core.resources.dll
+D:\Documents\CDIO397\ApartmentManage_ver2\ApartmentManage_ver2\bin\Debug\ru\DevExpress.Printing.v19.1.Core.resources.dll
+D:\Documents\CDIO397\ApartmentManage_ver2\ApartmentManage_ver2\bin\Debug\de\DevExpress.Utils.v19.1.resources.dll
+D:\Documents\CDIO397\ApartmentManage_ver2\ApartmentManage_ver2\bin\Debug\es\DevExpress.Utils.v19.1.resources.dll
+D:\Documents\CDIO397\ApartmentManage_ver2\ApartmentManage_ver2\bin\Debug\ja\DevExpress.Utils.v19.1.resources.dll
+D:\Documents\CDIO397\ApartmentManage_ver2\ApartmentManage_ver2\bin\Debug\ru\DevExpress.Utils.v19.1.resources.dll
+D:\Documents\CDIO397\ApartmentManage_ver2\ApartmentManage_ver2\bin\Debug\de\DevExpress.Xpo.v19.1.resources.dll
+D:\Documents\CDIO397\ApartmentManage_ver2\ApartmentManage_ver2\bin\Debug\es\DevExpress.Xpo.v19.1.resources.dll
+D:\Documents\CDIO397\ApartmentManage_ver2\ApartmentManage_ver2\bin\Debug\ja\DevExpress.Xpo.v19.1.resources.dll
+D:\Documents\CDIO397\ApartmentManage_ver2\ApartmentManage_ver2\bin\Debug\ru\DevExpress.Xpo.v19.1.resources.dll
+D:\Documents\CDIO397\ApartmentManage_ver2\ApartmentManage_ver2\bin\Debug\de\DevExpress.XtraBars.v19.1.resources.dll
+D:\Documents\CDIO397\ApartmentManage_ver2\ApartmentManage_ver2\bin\Debug\es\DevExpress.XtraBars.v19.1.resources.dll
+D:\Documents\CDIO397\ApartmentManage_ver2\ApartmentManage_ver2\bin\Debug\ja\DevExpress.XtraBars.v19.1.resources.dll
+D:\Documents\CDIO397\ApartmentManage_ver2\ApartmentManage_ver2\bin\Debug\ru\DevExpress.XtraBars.v19.1.resources.dll
+D:\Documents\CDIO397\ApartmentManage_ver2\ApartmentManage_ver2\bin\Debug\de\DevExpress.Sparkline.v19.1.Core.resources.dll
+D:\Documents\CDIO397\ApartmentManage_ver2\ApartmentManage_ver2\bin\Debug\es\DevExpress.Sparkline.v19.1.Core.resources.dll
+D:\Documents\CDIO397\ApartmentManage_ver2\ApartmentManage_ver2\bin\Debug\ja\DevExpress.Sparkline.v19.1.Core.resources.dll
+D:\Documents\CDIO397\ApartmentManage_ver2\ApartmentManage_ver2\bin\Debug\ru\DevExpress.Sparkline.v19.1.Core.resources.dll
+D:\Documents\CDIO397\ApartmentManage_ver2\ApartmentManage_ver2\bin\Debug\de\DevExpress.XtraEditors.v19.1.resources.dll
+D:\Documents\CDIO397\ApartmentManage_ver2\ApartmentManage_ver2\bin\Debug\es\DevExpress.XtraEditors.v19.1.resources.dll
+D:\Documents\CDIO397\ApartmentManage_ver2\ApartmentManage_ver2\bin\Debug\ja\DevExpress.XtraEditors.v19.1.resources.dll
+D:\Documents\CDIO397\ApartmentManage_ver2\ApartmentManage_ver2\bin\Debug\ru\DevExpress.XtraEditors.v19.1.resources.dll
+D:\Documents\CDIO397\ApartmentManage_ver2\ApartmentManage_ver2\bin\Debug\de\DevExpress.XtraNavBar.v19.1.resources.dll
+D:\Documents\CDIO397\ApartmentManage_ver2\ApartmentManage_ver2\bin\Debug\es\DevExpress.XtraNavBar.v19.1.resources.dll
+D:\Documents\CDIO397\ApartmentManage_ver2\ApartmentManage_ver2\bin\Debug\ja\DevExpress.XtraNavBar.v19.1.resources.dll
+D:\Documents\CDIO397\ApartmentManage_ver2\ApartmentManage_ver2\bin\Debug\ru\DevExpress.XtraNavBar.v19.1.resources.dll
+D:\Documents\CDIO397\ApartmentManage_ver2\ApartmentManage_ver2\bin\Debug\de\DevExpress.Pdf.v19.1.Core.resources.dll
+D:\Documents\CDIO397\ApartmentManage_ver2\ApartmentManage_ver2\bin\Debug\es\DevExpress.Pdf.v19.1.Core.resources.dll
+D:\Documents\CDIO397\ApartmentManage_ver2\ApartmentManage_ver2\bin\Debug\ja\DevExpress.Pdf.v19.1.Core.resources.dll
+D:\Documents\CDIO397\ApartmentManage_ver2\ApartmentManage_ver2\bin\Debug\ru\DevExpress.Pdf.v19.1.Core.resources.dll
+D:\Documents\CDIO397\ApartmentManage_ver2\ApartmentManage_ver2\obj\Debug\ApartmentManage_ver2.GUI.frmQuanLyHoaDonDien.resources
+D:\Documents\CDIO397\ApartmentManage_ver2\ApartmentManage_ver2\obj\Debug\ApartmentManage_ver2.GUI.frmQuanLyHoaDonNuoc.resources
+D:\Documents\CDIO397\ApartmentManage_ver2\ApartmentManage_ver2\obj\Debug\ApartmentManage_ver2.GUI.frmQuanLyNhanVien.resources
+D:\Documents\CDIO397\ApartmentManage_ver2\ApartmentManage_ver2\obj\Debug\ApartmentManage_ver2.frmQuanLyTaiKhoan.resources
+D:\Documents\CDIO397\ApartmentManage_ver2\ApartmentManage_ver2\obj\Debug\ApartmentManage_ver2.GUI.frmDangNhap.resources
+D:\Documents\CDIO397\ApartmentManage_ver2\ApartmentManage_ver2\obj\Debug\ApartmentManage_ver2.GUI.frmDoiMatKhau.resources
+D:\Documents\CDIO397\ApartmentManage_ver2\ApartmentManage_ver2\obj\Debug\ApartmentManage_ver2.GUI.frmMain.resources
+D:\Documents\CDIO397\ApartmentManage_ver2\ApartmentManage_ver2\obj\Debug\ApartmentManage_ver2.Properties.Resources.resources
+D:\Documents\CDIO397\ApartmentManage_ver2\ApartmentManage_ver2\obj\Debug\ApartmentManage_ver2.csproj.GenerateResource.cache
+D:\Documents\CDIO397\ApartmentManage_ver2\ApartmentManage_ver2\obj\Debug\ApartmentManage_ver2.exe.licenses
+D:\Documents\CDIO397\ApartmentManage_ver2\ApartmentManage_ver2\obj\Debug\ApartmentManage_ver2.csproj.CoreCompileInputs.cache
+D:\Documents\CDIO397\ApartmentManage_ver2\ApartmentManage_ver2\obj\Debug\ApartmentManage_ver2.csproj.CopyComplete
+D:\Documents\CDIO397\ApartmentManage_ver2\ApartmentManage_ver2\obj\Debug\ApartmentManage_ver2.exe
+D:\Documents\CDIO397\ApartmentManage_ver2\ApartmentManage_ver2\obj\Debug\ApartmentManage_ver2.pdb
+D:\Documents\CDIO397\ApartmentManage_ver2\ApartmentManage_ver2\obj\Debug\ApartmentManage_ver2.csprojAssemblyReference.cache
+D:\CDIO397\ApartmentManage_ver2\ApartmentManage_ver2\bin\Debug\ApartmentManage_ver2.exe.config
+D:\CDIO397\ApartmentManage_ver2\ApartmentManage_ver2\bin\Debug\ApartmentManage_ver2.exe
+D:\CDIO397\ApartmentManage_ver2\ApartmentManage_ver2\bin\Debug\ApartmentManage_ver2.pdb
+D:\CDIO397\ApartmentManage_ver2\ApartmentManage_ver2\bin\Debug\DevExpress.BonusSkins.v19.1.dll
+D:\CDIO397\ApartmentManage_ver2\ApartmentManage_ver2\bin\Debug\DevExpress.Data.v19.1.dll
+D:\CDIO397\ApartmentManage_ver2\ApartmentManage_ver2\bin\Debug\DevExpress.Printing.v19.1.Core.dll
+D:\CDIO397\ApartmentManage_ver2\ApartmentManage_ver2\bin\Debug\DevExpress.Sparkline.v19.1.Core.dll
+D:\CDIO397\ApartmentManage_ver2\ApartmentManage_ver2\bin\Debug\DevExpress.Utils.v19.1.dll
+D:\CDIO397\ApartmentManage_ver2\ApartmentManage_ver2\bin\Debug\DevExpress.Xpo.v19.1.dll
+D:\CDIO397\ApartmentManage_ver2\ApartmentManage_ver2\bin\Debug\DevExpress.XtraBars.v19.1.dll
+D:\CDIO397\ApartmentManage_ver2\ApartmentManage_ver2\bin\Debug\DevExpress.XtraEditors.v19.1.dll
+D:\CDIO397\ApartmentManage_ver2\ApartmentManage_ver2\bin\Debug\DevExpress.XtraNavBar.v19.1.dll
+D:\CDIO397\ApartmentManage_ver2\ApartmentManage_ver2\bin\Debug\DevExpress.Pdf.v19.1.Core.dll
+D:\CDIO397\ApartmentManage_ver2\ApartmentManage_ver2\bin\Debug\DevExpress.Data.v19.1.xml
+D:\CDIO397\ApartmentManage_ver2\ApartmentManage_ver2\bin\Debug\DevExpress.Printing.v19.1.Core.xml
+D:\CDIO397\ApartmentManage_ver2\ApartmentManage_ver2\bin\Debug\DevExpress.Utils.v19.1.xml
+D:\CDIO397\ApartmentManage_ver2\ApartmentManage_ver2\bin\Debug\DevExpress.Xpo.v19.1.xml
+D:\CDIO397\ApartmentManage_ver2\ApartmentManage_ver2\bin\Debug\DevExpress.XtraBars.v19.1.xml
+D:\CDIO397\ApartmentManage_ver2\ApartmentManage_ver2\bin\Debug\DevExpress.Sparkline.v19.1.Core.xml
+D:\CDIO397\ApartmentManage_ver2\ApartmentManage_ver2\bin\Debug\DevExpress.XtraEditors.v19.1.xml
+D:\CDIO397\ApartmentManage_ver2\ApartmentManage_ver2\bin\Debug\DevExpress.XtraNavBar.v19.1.xml
+D:\CDIO397\ApartmentManage_ver2\ApartmentManage_ver2\bin\Debug\DevExpress.Pdf.v19.1.Core.xml
+D:\CDIO397\ApartmentManage_ver2\ApartmentManage_ver2\bin\Debug\de\DevExpress.Data.v19.1.resources.dll
+D:\CDIO397\ApartmentManage_ver2\ApartmentManage_ver2\bin\Debug\es\DevExpress.Data.v19.1.resources.dll
+D:\CDIO397\ApartmentManage_ver2\ApartmentManage_ver2\bin\Debug\ja\DevExpress.Data.v19.1.resources.dll
+D:\CDIO397\ApartmentManage_ver2\ApartmentManage_ver2\bin\Debug\ru\DevExpress.Data.v19.1.resources.dll
+D:\CDIO397\ApartmentManage_ver2\ApartmentManage_ver2\bin\Debug\de\DevExpress.Printing.v19.1.Core.resources.dll
+D:\CDIO397\ApartmentManage_ver2\ApartmentManage_ver2\bin\Debug\es\DevExpress.Printing.v19.1.Core.resources.dll
+D:\CDIO397\ApartmentManage_ver2\ApartmentManage_ver2\bin\Debug\ja\DevExpress.Printing.v19.1.Core.resources.dll
+D:\CDIO397\ApartmentManage_ver2\ApartmentManage_ver2\bin\Debug\ru\DevExpress.Printing.v19.1.Core.resources.dll
+D:\CDIO397\ApartmentManage_ver2\ApartmentManage_ver2\bin\Debug\de\DevExpress.Utils.v19.1.resources.dll
+D:\CDIO397\ApartmentManage_ver2\ApartmentManage_ver2\bin\Debug\es\DevExpress.Utils.v19.1.resources.dll
+D:\CDIO397\ApartmentManage_ver2\ApartmentManage_ver2\bin\Debug\ja\DevExpress.Utils.v19.1.resources.dll
+D:\CDIO397\ApartmentManage_ver2\ApartmentManage_ver2\bin\Debug\ru\DevExpress.Utils.v19.1.resources.dll
+D:\CDIO397\ApartmentManage_ver2\ApartmentManage_ver2\bin\Debug\de\DevExpress.Xpo.v19.1.resources.dll
+D:\CDIO397\ApartmentManage_ver2\ApartmentManage_ver2\bin\Debug\es\DevExpress.Xpo.v19.1.resources.dll
+D:\CDIO397\ApartmentManage_ver2\ApartmentManage_ver2\bin\Debug\ja\DevExpress.Xpo.v19.1.resources.dll
+D:\CDIO397\ApartmentManage_ver2\ApartmentManage_ver2\bin\Debug\ru\DevExpress.Xpo.v19.1.resources.dll
+D:\CDIO397\ApartmentManage_ver2\ApartmentManage_ver2\bin\Debug\de\DevExpress.XtraBars.v19.1.resources.dll
+D:\CDIO397\ApartmentManage_ver2\ApartmentManage_ver2\bin\Debug\es\DevExpress.XtraBars.v19.1.resources.dll
+D:\CDIO397\ApartmentManage_ver2\ApartmentManage_ver2\bin\Debug\ja\DevExpress.XtraBars.v19.1.resources.dll
+D:\CDIO397\ApartmentManage_ver2\ApartmentManage_ver2\bin\Debug\ru\DevExpress.XtraBars.v19.1.resources.dll
+D:\CDIO397\ApartmentManage_ver2\ApartmentManage_ver2\bin\Debug\de\DevExpress.Sparkline.v19.1.Core.resources.dll
+D:\CDIO397\ApartmentManage_ver2\ApartmentManage_ver2\bin\Debug\es\DevExpress.Sparkline.v19.1.Core.resources.dll
+D:\CDIO397\ApartmentManage_ver2\ApartmentManage_ver2\bin\Debug\ja\DevExpress.Sparkline.v19.1.Core.resources.dll
+D:\CDIO397\ApartmentManage_ver2\ApartmentManage_ver2\bin\Debug\ru\DevExpress.Sparkline.v19.1.Core.resources.dll
+D:\CDIO397\ApartmentManage_ver2\ApartmentManage_ver2\bin\Debug\de\DevExpress.XtraEditors.v19.1.resources.dll
+D:\CDIO397\ApartmentManage_ver2\ApartmentManage_ver2\bin\Debug\es\DevExpress.XtraEditors.v19.1.resources.dll
+D:\CDIO397\ApartmentManage_ver2\ApartmentManage_ver2\bin\Debug\ja\DevExpress.XtraEditors.v19.1.resources.dll
+D:\CDIO397\ApartmentManage_ver2\ApartmentManage_ver2\bin\Debug\ru\DevExpress.XtraEditors.v19.1.resources.dll
+D:\CDIO397\ApartmentManage_ver2\ApartmentManage_ver2\bin\Debug\de\DevExpress.XtraNavBar.v19.1.resources.dll
+D:\CDIO397\ApartmentManage_ver2\ApartmentManage_ver2\bin\Debug\es\DevExpress.XtraNavBar.v19.1.resources.dll
+D:\CDIO397\ApartmentManage_ver2\ApartmentManage_ver2\bin\Debug\ja\DevExpress.XtraNavBar.v19.1.resources.dll
+D:\CDIO397\ApartmentManage_ver2\ApartmentManage_ver2\bin\Debug\ru\DevExpress.XtraNavBar.v19.1.resources.dll
+D:\CDIO397\ApartmentManage_ver2\ApartmentManage_ver2\bin\Debug\de\DevExpress.Pdf.v19.1.Core.resources.dll
+D:\CDIO397\ApartmentManage_ver2\ApartmentManage_ver2\bin\Debug\es\DevExpress.Pdf.v19.1.Core.resources.dll
+D:\CDIO397\ApartmentManage_ver2\ApartmentManage_ver2\bin\Debug\ja\DevExpress.Pdf.v19.1.Core.resources.dll
+D:\CDIO397\ApartmentManage_ver2\ApartmentManage_ver2\bin\Debug\ru\DevExpress.Pdf.v19.1.Core.resources.dll
+D:\CDIO397\ApartmentManage_ver2\ApartmentManage_ver2\obj\Debug\ApartmentManage_ver2.csprojAssemblyReference.cache
+D:\CDIO397\ApartmentManage_ver2\ApartmentManage_ver2\obj\Debug\ApartmentManage_ver2.GUI.frmQuanLyHoaDonDien.resources
+D:\CDIO397\ApartmentManage_ver2\ApartmentManage_ver2\obj\Debug\ApartmentManage_ver2.GUI.frmQuanLyHoaDonNuoc.resources
+D:\CDIO397\ApartmentManage_ver2\ApartmentManage_ver2\obj\Debug\ApartmentManage_ver2.GUI.frmQuanLyNhanVien.resources
+D:\CDIO397\ApartmentManage_ver2\ApartmentManage_ver2\obj\Debug\ApartmentManage_ver2.frmQuanLyTaiKhoan.resources
+D:\CDIO397\ApartmentManage_ver2\ApartmentManage_ver2\obj\Debug\ApartmentManage_ver2.GUI.frmDangNhap.resources
+D:\CDIO397\ApartmentManage_ver2\ApartmentManage_ver2\obj\Debug\ApartmentManage_ver2.GUI.frmDoiMatKhau.resources
+D:\CDIO397\ApartmentManage_ver2\ApartmentManage_ver2\obj\Debug\ApartmentManage_ver2.GUI.frmMain.resources
+D:\CDIO397\ApartmentManage_ver2\ApartmentManage_ver2\obj\Debug\ApartmentManage_ver2.Properties.Resources.resources
+D:\CDIO397\ApartmentManage_ver2\ApartmentManage_ver2\obj\Debug\ApartmentManage_ver2.csproj.GenerateResource.cache
+D:\CDIO397\ApartmentManage_ver2\ApartmentManage_ver2\obj\Debug\ApartmentManage_ver2.exe.licenses
+D:\CDIO397\ApartmentManage_ver2\ApartmentManage_ver2\obj\Debug\ApartmentManage_ver2.csproj.CoreCompileInputs.cache
+D:\CDIO397\ApartmentManage_ver2\ApartmentManage_ver2\obj\Debug\ApartmentManage_ver2.csproj.CopyComplete
+D:\CDIO397\ApartmentManage_ver2\ApartmentManage_ver2\obj\Debug\ApartmentManage_ver2.exe
+D:\CDIO397\ApartmentManage_ver2\ApartmentManage_ver2\obj\Debug\ApartmentManage_ver2.pdb
+D:\CDIO397\ApartmentManage_ver2\ApartmentManage_ver2\obj\Debug\ApartmentManage_ver2.GUI.frmQuanLyDichVu.resources
+D:\CDIO397\ApartmentManage_ver2\ApartmentManage_ver2\obj\Debug\ApartmentManage_ver2.GUI.frmQuanLyHoaDonDichVu.resources
+D:\CDIO397\ApartmentManage_ver2\ApartmentManage_ver2\obj\Debug\ApartmentManage_ver2.GUI.frmThongKeCanHo.resources
+D:\CDIO397\ApartmentManage_ver2\ApartmentManage_ver2\obj\Debug\ApartmentManage_ver2.GUI.frmThongKeDichVu.resources
+D:\CDIO397\ApartmentManage_ver2\ApartmentManage_ver2\obj\Debug\ApartmentManage_ver2.GUI.frmThongKeTienDien.resources
+D:\CDIO397\ApartmentManage_ver2\ApartmentManage_ver2\obj\Debug\ApartmentManage_ver2.GUI.frmThongKeTienNuoc.resources
+D:\CDIO397\ApartmentManage_ver2\ApartmentManage_ver2\bin\Debug\GUI\Report1.rdlc
+D:\CDIO397\ApartmentManage_ver2\ApartmentManage_ver2\bin\Debug\GUI\Report2.rdlc
+D:\CDIO397\ApartmentManage_ver2\ApartmentManage_ver2\bin\Debug\GUI\Report3.rdlc
+D:\CDIO397\ApartmentManage_ver2\ApartmentManage_ver2\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\CDIO397\ApartmentManage_ver2\ApartmentManage_ver2\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+D:\CDIO397\ApartmentManage_ver2\ApartmentManage_ver2\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+D:\CDIO397\ApartmentManage_ver2\ApartmentManage_ver2\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+D:\CDIO397\ApartmentManage_ver2\ApartmentManage_ver2\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+D:\CDIO397\ApartmentManage_ver2\ApartmentManage_ver2\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+D:\CDIO397\ApartmentManage_ver2\ApartmentManage_ver2\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+D:\CDIO397\ApartmentManage_ver2\ApartmentManage_ver2\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+D:\CDIO397\ApartmentManage_ver2\ApartmentManage_ver2\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+D:\CDIO397\ApartmentManage_ver2\ApartmentManage_ver2\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+D:\CDIO397\ApartmentManage_ver2\ApartmentManage_ver2\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+D:\QuynhLTT\GitHub\CDIO397\ApartmentManage_ver2\ApartmentManage_ver2\bin\Debug\ApartmentManage_ver2.exe.config
+D:\QuynhLTT\GitHub\CDIO397\ApartmentManage_ver2\ApartmentManage_ver2\obj\Debug\ApartmentManage_ver2.exe
+D:\QuynhLTT\GitHub\CDIO397\ApartmentManage_ver2\ApartmentManage_ver2\obj\Debug\ApartmentManage_ver2.pdb
+D:\CDIO3_CS397\ApartmentManage_ver2\ApartmentManage_ver2\bin\Debug\GUI\Report1.rdlc
+D:\CDIO3_CS397\ApartmentManage_ver2\ApartmentManage_ver2\bin\Debug\GUI\Report2.rdlc
+D:\CDIO3_CS397\ApartmentManage_ver2\ApartmentManage_ver2\bin\Debug\GUI\Report3.rdlc
+D:\CDIO3_CS397\ApartmentManage_ver2\ApartmentManage_ver2\bin\Debug\ApartmentManage_ver2.exe.config
+D:\CDIO3_CS397\ApartmentManage_ver2\ApartmentManage_ver2\bin\Debug\ApartmentManage_ver2.exe
+D:\CDIO3_CS397\ApartmentManage_ver2\ApartmentManage_ver2\bin\Debug\ApartmentManage_ver2.pdb
+D:\CDIO3_CS397\ApartmentManage_ver2\ApartmentManage_ver2\bin\Debug\DevExpress.BonusSkins.v19.1.dll
+D:\CDIO3_CS397\ApartmentManage_ver2\ApartmentManage_ver2\bin\Debug\DevExpress.Data.v19.1.dll
+D:\CDIO3_CS397\ApartmentManage_ver2\ApartmentManage_ver2\bin\Debug\DevExpress.Printing.v19.1.Core.dll
+D:\CDIO3_CS397\ApartmentManage_ver2\ApartmentManage_ver2\bin\Debug\DevExpress.Sparkline.v19.1.Core.dll
+D:\CDIO3_CS397\ApartmentManage_ver2\ApartmentManage_ver2\bin\Debug\DevExpress.Utils.v19.1.dll
+D:\CDIO3_CS397\ApartmentManage_ver2\ApartmentManage_ver2\bin\Debug\DevExpress.XtraBars.v19.1.dll
+D:\CDIO3_CS397\ApartmentManage_ver2\ApartmentManage_ver2\bin\Debug\DevExpress.XtraEditors.v19.1.dll
+D:\CDIO3_CS397\ApartmentManage_ver2\ApartmentManage_ver2\bin\Debug\DevExpress.XtraNavBar.v19.1.dll
+D:\CDIO3_CS397\ApartmentManage_ver2\ApartmentManage_ver2\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\CDIO3_CS397\ApartmentManage_ver2\ApartmentManage_ver2\bin\Debug\DevExpress.Pdf.v19.1.Core.dll
+D:\CDIO3_CS397\ApartmentManage_ver2\ApartmentManage_ver2\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\CDIO3_CS397\ApartmentManage_ver2\ApartmentManage_ver2\bin\Debug\DevExpress.Data.v19.1.xml
+D:\CDIO3_CS397\ApartmentManage_ver2\ApartmentManage_ver2\bin\Debug\DevExpress.Printing.v19.1.Core.xml
+D:\CDIO3_CS397\ApartmentManage_ver2\ApartmentManage_ver2\bin\Debug\DevExpress.Utils.v19.1.xml
+D:\CDIO3_CS397\ApartmentManage_ver2\ApartmentManage_ver2\bin\Debug\DevExpress.XtraBars.v19.1.xml
+D:\CDIO3_CS397\ApartmentManage_ver2\ApartmentManage_ver2\bin\Debug\DevExpress.Sparkline.v19.1.Core.xml
+D:\CDIO3_CS397\ApartmentManage_ver2\ApartmentManage_ver2\bin\Debug\DevExpress.XtraEditors.v19.1.xml
+D:\CDIO3_CS397\ApartmentManage_ver2\ApartmentManage_ver2\bin\Debug\DevExpress.XtraNavBar.v19.1.xml
+D:\CDIO3_CS397\ApartmentManage_ver2\ApartmentManage_ver2\bin\Debug\DevExpress.Pdf.v19.1.Core.xml
+D:\CDIO3_CS397\ApartmentManage_ver2\ApartmentManage_ver2\bin\Debug\de\DevExpress.Data.v19.1.resources.dll
+D:\CDIO3_CS397\ApartmentManage_ver2\ApartmentManage_ver2\bin\Debug\es\DevExpress.Data.v19.1.resources.dll
+D:\CDIO3_CS397\ApartmentManage_ver2\ApartmentManage_ver2\bin\Debug\ja\DevExpress.Data.v19.1.resources.dll
+D:\CDIO3_CS397\ApartmentManage_ver2\ApartmentManage_ver2\bin\Debug\ru\DevExpress.Data.v19.1.resources.dll
+D:\CDIO3_CS397\ApartmentManage_ver2\ApartmentManage_ver2\bin\Debug\de\DevExpress.Printing.v19.1.Core.resources.dll
+D:\CDIO3_CS397\ApartmentManage_ver2\ApartmentManage_ver2\bin\Debug\es\DevExpress.Printing.v19.1.Core.resources.dll
+D:\CDIO3_CS397\ApartmentManage_ver2\ApartmentManage_ver2\bin\Debug\ja\DevExpress.Printing.v19.1.Core.resources.dll
+D:\CDIO3_CS397\ApartmentManage_ver2\ApartmentManage_ver2\bin\Debug\ru\DevExpress.Printing.v19.1.Core.resources.dll
+D:\CDIO3_CS397\ApartmentManage_ver2\ApartmentManage_ver2\bin\Debug\de\DevExpress.Utils.v19.1.resources.dll
+D:\CDIO3_CS397\ApartmentManage_ver2\ApartmentManage_ver2\bin\Debug\es\DevExpress.Utils.v19.1.resources.dll
+D:\CDIO3_CS397\ApartmentManage_ver2\ApartmentManage_ver2\bin\Debug\ja\DevExpress.Utils.v19.1.resources.dll
+D:\CDIO3_CS397\ApartmentManage_ver2\ApartmentManage_ver2\bin\Debug\ru\DevExpress.Utils.v19.1.resources.dll
+D:\CDIO3_CS397\ApartmentManage_ver2\ApartmentManage_ver2\bin\Debug\de\DevExpress.XtraBars.v19.1.resources.dll
+D:\CDIO3_CS397\ApartmentManage_ver2\ApartmentManage_ver2\bin\Debug\es\DevExpress.XtraBars.v19.1.resources.dll
+D:\CDIO3_CS397\ApartmentManage_ver2\ApartmentManage_ver2\bin\Debug\ja\DevExpress.XtraBars.v19.1.resources.dll
+D:\CDIO3_CS397\ApartmentManage_ver2\ApartmentManage_ver2\bin\Debug\ru\DevExpress.XtraBars.v19.1.resources.dll
+D:\CDIO3_CS397\ApartmentManage_ver2\ApartmentManage_ver2\bin\Debug\de\DevExpress.Sparkline.v19.1.Core.resources.dll
+D:\CDIO3_CS397\ApartmentManage_ver2\ApartmentManage_ver2\bin\Debug\es\DevExpress.Sparkline.v19.1.Core.resources.dll
+D:\CDIO3_CS397\ApartmentManage_ver2\ApartmentManage_ver2\bin\Debug\ja\DevExpress.Sparkline.v19.1.Core.resources.dll
+D:\CDIO3_CS397\ApartmentManage_ver2\ApartmentManage_ver2\bin\Debug\ru\DevExpress.Sparkline.v19.1.Core.resources.dll
+D:\CDIO3_CS397\ApartmentManage_ver2\ApartmentManage_ver2\bin\Debug\de\DevExpress.XtraEditors.v19.1.resources.dll
+D:\CDIO3_CS397\ApartmentManage_ver2\ApartmentManage_ver2\bin\Debug\es\DevExpress.XtraEditors.v19.1.resources.dll
+D:\CDIO3_CS397\ApartmentManage_ver2\ApartmentManage_ver2\bin\Debug\ja\DevExpress.XtraEditors.v19.1.resources.dll
+D:\CDIO3_CS397\ApartmentManage_ver2\ApartmentManage_ver2\bin\Debug\ru\DevExpress.XtraEditors.v19.1.resources.dll
+D:\CDIO3_CS397\ApartmentManage_ver2\ApartmentManage_ver2\bin\Debug\de\DevExpress.XtraNavBar.v19.1.resources.dll
+D:\CDIO3_CS397\ApartmentManage_ver2\ApartmentManage_ver2\bin\Debug\es\DevExpress.XtraNavBar.v19.1.resources.dll
+D:\CDIO3_CS397\ApartmentManage_ver2\ApartmentManage_ver2\bin\Debug\ja\DevExpress.XtraNavBar.v19.1.resources.dll
+D:\CDIO3_CS397\ApartmentManage_ver2\ApartmentManage_ver2\bin\Debug\ru\DevExpress.XtraNavBar.v19.1.resources.dll
+D:\CDIO3_CS397\ApartmentManage_ver2\ApartmentManage_ver2\bin\Debug\de\DevExpress.Pdf.v19.1.Core.resources.dll
+D:\CDIO3_CS397\ApartmentManage_ver2\ApartmentManage_ver2\bin\Debug\es\DevExpress.Pdf.v19.1.Core.resources.dll
+D:\CDIO3_CS397\ApartmentManage_ver2\ApartmentManage_ver2\bin\Debug\ja\DevExpress.Pdf.v19.1.Core.resources.dll
+D:\CDIO3_CS397\ApartmentManage_ver2\ApartmentManage_ver2\bin\Debug\ru\DevExpress.Pdf.v19.1.Core.resources.dll
+D:\CDIO3_CS397\ApartmentManage_ver2\ApartmentManage_ver2\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+D:\CDIO3_CS397\ApartmentManage_ver2\ApartmentManage_ver2\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+D:\CDIO3_CS397\ApartmentManage_ver2\ApartmentManage_ver2\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+D:\CDIO3_CS397\ApartmentManage_ver2\ApartmentManage_ver2\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+D:\CDIO3_CS397\ApartmentManage_ver2\ApartmentManage_ver2\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+D:\CDIO3_CS397\ApartmentManage_ver2\ApartmentManage_ver2\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+D:\CDIO3_CS397\ApartmentManage_ver2\ApartmentManage_ver2\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+D:\CDIO3_CS397\ApartmentManage_ver2\ApartmentManage_ver2\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+D:\CDIO3_CS397\ApartmentManage_ver2\ApartmentManage_ver2\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+D:\CDIO3_CS397\ApartmentManage_ver2\ApartmentManage_ver2\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+D:\CDIO3_CS397\ApartmentManage_ver2\ApartmentManage_ver2\obj\Debug\ApartmentManage_ver2.GUI.frmQuanLyCanHo.resources
+D:\CDIO3_CS397\ApartmentManage_ver2\ApartmentManage_ver2\obj\Debug\ApartmentManage_ver2.GUI.frmQuanLyHoaDonDien.resources
+D:\CDIO3_CS397\ApartmentManage_ver2\ApartmentManage_ver2\obj\Debug\ApartmentManage_ver2.GUI.frmQuanLyHoaDonNuoc.resources
+D:\CDIO3_CS397\ApartmentManage_ver2\ApartmentManage_ver2\obj\Debug\ApartmentManage_ver2.GUI.frmQuanLyHoGiaDinh.resources
+D:\CDIO3_CS397\ApartmentManage_ver2\ApartmentManage_ver2\obj\Debug\ApartmentManage_ver2.GUI.frmQuanLyDichVu.resources
+D:\CDIO3_CS397\ApartmentManage_ver2\ApartmentManage_ver2\obj\Debug\ApartmentManage_ver2.GUI.frmQuanLyHoaDonDichVu.resources
+D:\CDIO3_CS397\ApartmentManage_ver2\ApartmentManage_ver2\obj\Debug\ApartmentManage_ver2.GUI.frmQuanLyHopDong.resources
+D:\CDIO3_CS397\ApartmentManage_ver2\ApartmentManage_ver2\obj\Debug\ApartmentManage_ver2.GUI.frmQuanLyNhanVien.resources
+D:\CDIO3_CS397\ApartmentManage_ver2\ApartmentManage_ver2\obj\Debug\ApartmentManage_ver2.frmQuanLyTaiKhoan.resources
+D:\CDIO3_CS397\ApartmentManage_ver2\ApartmentManage_ver2\obj\Debug\ApartmentManage_ver2.GUI.frmDangNhap.resources
+D:\CDIO3_CS397\ApartmentManage_ver2\ApartmentManage_ver2\obj\Debug\ApartmentManage_ver2.GUI.frmDoiMatKhau.resources
+D:\CDIO3_CS397\ApartmentManage_ver2\ApartmentManage_ver2\obj\Debug\ApartmentManage_ver2.GUI.frmMain.resources
+D:\CDIO3_CS397\ApartmentManage_ver2\ApartmentManage_ver2\obj\Debug\ApartmentManage_ver2.GUI.frmQuanLyThanhVien.resources
+D:\CDIO3_CS397\ApartmentManage_ver2\ApartmentManage_ver2\obj\Debug\ApartmentManage_ver2.GUI.frmThongKeCanHo.resources
+D:\CDIO3_CS397\ApartmentManage_ver2\ApartmentManage_ver2\obj\Debug\ApartmentManage_ver2.GUI.frmThongKeDichVu.resources
+D:\CDIO3_CS397\ApartmentManage_ver2\ApartmentManage_ver2\obj\Debug\ApartmentManage_ver2.GUI.frmThongKeTienDien.resources
+D:\CDIO3_CS397\ApartmentManage_ver2\ApartmentManage_ver2\obj\Debug\ApartmentManage_ver2.GUI.frmThongKeTienNuoc.resources
+D:\CDIO3_CS397\ApartmentManage_ver2\ApartmentManage_ver2\obj\Debug\ApartmentManage_ver2.Properties.Resources.resources
+D:\CDIO3_CS397\ApartmentManage_ver2\ApartmentManage_ver2\obj\Debug\ApartmentManage_ver2.csproj.GenerateResource.Cache
+D:\CDIO3_CS397\ApartmentManage_ver2\ApartmentManage_ver2\obj\Debug\ApartmentManage_ver2.exe.licenses
+D:\CDIO3_CS397\ApartmentManage_ver2\ApartmentManage_ver2\obj\Debug\RdlCompile.cache
+D:\CDIO3_CS397\ApartmentManage_ver2\ApartmentManage_ver2\obj\Debug\RdlCompile.compiled
+D:\CDIO3_CS397\ApartmentManage_ver2\ApartmentManage_ver2\obj\Debug\ApartmentManage_ver2.exe
+D:\CDIO3_CS397\ApartmentManage_ver2\ApartmentManage_ver2\obj\Debug\ApartmentManage_ver2.pdb
+D:\CDIO3_CS397\ApartmentManage_ver2\ApartmentManage_ver2\obj\Debug\ApartmentManage_ver2.csprojResolveAssemblyReference.cache
+D:\CDIO3_CS397\ApartmentManage_ver2\ApartmentManage_ver2\bin\Debug\GUI\frmThongKeDichVu.resx
+D:\CDIO3_CS397\ApartmentManage_ver2\ApartmentManage_ver2\bin\Debug\GUI\frmThongKeTienDien.resx
+D:\CDIO3_CS397\ApartmentManage_ver2\ApartmentManage_ver2\bin\Debug\GUI\frmThongKeTienNuoc.resx
+D:\CDIO3_CS397\ApartmentManage_ver2\ApartmentManage_ver2\bin\Debug\GUI\frmThongKeDichVu.cs
+D:\CDIO3_CS397\ApartmentManage_ver2\ApartmentManage_ver2\bin\Debug\GUI\frmThongKeDichVu.Designer.cs
+D:\CDIO3_CS397\ApartmentManage_ver2\ApartmentManage_ver2\bin\Debug\GUI\frmThongKeTienDien.cs
+D:\CDIO3_CS397\ApartmentManage_ver2\ApartmentManage_ver2\bin\Debug\GUI\frmThongKeTienDien.Designer.cs
+D:\CDIO3_CS397\ApartmentManage_ver2\ApartmentManage_ver2\bin\Debug\GUI\frmThongKeTienNuoc.cs
+D:\CDIO3_CS397\ApartmentManage_ver2\ApartmentManage_ver2\bin\Debug\GUI\frmThongKeTienNuoc.Designer.cs
+D:\CDIO3_CS397\ApartmentManage_ver2\ApartmentManage_ver2\bin\Debug\GUI\Report4.rdlc
+D:\CDIO3_CS397\ApartmentManage_ver2\ApartmentManage_ver2\bin\Debug\GUI\Report5.rdlc
+D:\CDIO3_CS397\ApartmentManage_ver2\ApartmentManage_ver2\obj\Debug\ApartmentManage_ver2.GUI.frmThongKeDoanhThu.resources
+D:\CDIO3_CS397\ApartmentManage_ver2\ApartmentManage_ver2\obj\Debug\ApartmentManage_ver2.GUI.frmTraCuuHoGiaDinh.resources
+D:\CDIO3_CS397\ApartmentManage_ver2\ApartmentManage_ver2\obj\Debug\ApartmentManage_ver2.GUI.frmThongTin.resources
+D:\CDIO3_CS397\ApartmentManage_ver2\ApartmentManage_ver2\obj\Debug\ApartmentManage_ver2.GUI.frmTroGiup.resources
+D:\New folder\ApartmentManage_ver2\ApartmentManage_ver2\bin\Debug\GUI\Report5.rdlc
+D:\New folder\ApartmentManage_ver2\ApartmentManage_ver2\bin\Debug\GUI\frmThongKeDichVu.resx
+D:\New folder\ApartmentManage_ver2\ApartmentManage_ver2\bin\Debug\GUI\frmThongKeTienDien.resx
+D:\New folder\ApartmentManage_ver2\ApartmentManage_ver2\bin\Debug\GUI\frmThongKeTienNuoc.resx
+D:\New folder\ApartmentManage_ver2\ApartmentManage_ver2\bin\Debug\GUI\frmThongKeDichVu.cs
+D:\New folder\ApartmentManage_ver2\ApartmentManage_ver2\bin\Debug\GUI\frmThongKeDichVu.Designer.cs
+D:\New folder\ApartmentManage_ver2\ApartmentManage_ver2\bin\Debug\GUI\frmThongKeTienDien.cs
+D:\New folder\ApartmentManage_ver2\ApartmentManage_ver2\bin\Debug\GUI\frmThongKeTienDien.Designer.cs
+D:\New folder\ApartmentManage_ver2\ApartmentManage_ver2\bin\Debug\GUI\frmThongKeTienNuoc.cs
+D:\New folder\ApartmentManage_ver2\ApartmentManage_ver2\bin\Debug\GUI\frmThongKeTienNuoc.Designer.cs
+D:\New folder\ApartmentManage_ver2\ApartmentManage_ver2\bin\Debug\GUI\Report1.rdlc
+D:\New folder\ApartmentManage_ver2\ApartmentManage_ver2\bin\Debug\GUI\Report2.rdlc
+D:\New folder\ApartmentManage_ver2\ApartmentManage_ver2\bin\Debug\GUI\Report3.rdlc
+D:\New folder\ApartmentManage_ver2\ApartmentManage_ver2\bin\Debug\GUI\Report4.rdlc
+D:\New folder\ApartmentManage_ver2\ApartmentManage_ver2\bin\Debug\ApartmentManage_ver2.exe.config
+D:\New folder\ApartmentManage_ver2\ApartmentManage_ver2\bin\Debug\ApartmentManage_ver2.exe
+D:\New folder\ApartmentManage_ver2\ApartmentManage_ver2\bin\Debug\ApartmentManage_ver2.pdb
+D:\New folder\ApartmentManage_ver2\ApartmentManage_ver2\bin\Debug\DevExpress.Pdf.v19.1.Core.dll
+D:\New folder\ApartmentManage_ver2\ApartmentManage_ver2\bin\Debug\DevExpress.Data.v19.1.xml
+D:\New folder\ApartmentManage_ver2\ApartmentManage_ver2\bin\Debug\DevExpress.Printing.v19.1.Core.xml
+D:\New folder\ApartmentManage_ver2\ApartmentManage_ver2\bin\Debug\DevExpress.Utils.v19.1.xml
+D:\New folder\ApartmentManage_ver2\ApartmentManage_ver2\bin\Debug\DevExpress.XtraBars.v19.1.xml
+D:\New folder\ApartmentManage_ver2\ApartmentManage_ver2\bin\Debug\DevExpress.Sparkline.v19.1.Core.xml
+D:\New folder\ApartmentManage_ver2\ApartmentManage_ver2\bin\Debug\DevExpress.XtraEditors.v19.1.xml
+D:\New folder\ApartmentManage_ver2\ApartmentManage_ver2\bin\Debug\DevExpress.XtraNavBar.v19.1.xml
+D:\New folder\ApartmentManage_ver2\ApartmentManage_ver2\bin\Debug\DevExpress.Pdf.v19.1.Core.xml
+D:\New folder\ApartmentManage_ver2\ApartmentManage_ver2\bin\Debug\de\DevExpress.Data.v19.1.resources.dll
+D:\New folder\ApartmentManage_ver2\ApartmentManage_ver2\bin\Debug\es\DevExpress.Data.v19.1.resources.dll
+D:\New folder\ApartmentManage_ver2\ApartmentManage_ver2\bin\Debug\ja\DevExpress.Data.v19.1.resources.dll
+D:\New folder\ApartmentManage_ver2\ApartmentManage_ver2\bin\Debug\ru\DevExpress.Data.v19.1.resources.dll
+D:\New folder\ApartmentManage_ver2\ApartmentManage_ver2\bin\Debug\de\DevExpress.Printing.v19.1.Core.resources.dll
+D:\New folder\ApartmentManage_ver2\ApartmentManage_ver2\bin\Debug\es\DevExpress.Printing.v19.1.Core.resources.dll
+D:\New folder\ApartmentManage_ver2\ApartmentManage_ver2\bin\Debug\ja\DevExpress.Printing.v19.1.Core.resources.dll
+D:\New folder\ApartmentManage_ver2\ApartmentManage_ver2\bin\Debug\ru\DevExpress.Printing.v19.1.Core.resources.dll
+D:\New folder\ApartmentManage_ver2\ApartmentManage_ver2\bin\Debug\de\DevExpress.Utils.v19.1.resources.dll
+D:\New folder\ApartmentManage_ver2\ApartmentManage_ver2\bin\Debug\es\DevExpress.Utils.v19.1.resources.dll
+D:\New folder\ApartmentManage_ver2\ApartmentManage_ver2\bin\Debug\ja\DevExpress.Utils.v19.1.resources.dll
+D:\New folder\ApartmentManage_ver2\ApartmentManage_ver2\bin\Debug\ru\DevExpress.Utils.v19.1.resources.dll
+D:\New folder\ApartmentManage_ver2\ApartmentManage_ver2\bin\Debug\de\DevExpress.XtraBars.v19.1.resources.dll
+D:\New folder\ApartmentManage_ver2\ApartmentManage_ver2\bin\Debug\es\DevExpress.XtraBars.v19.1.resources.dll
+D:\New folder\ApartmentManage_ver2\ApartmentManage_ver2\bin\Debug\ja\DevExpress.XtraBars.v19.1.resources.dll
+D:\New folder\ApartmentManage_ver2\ApartmentManage_ver2\bin\Debug\ru\DevExpress.XtraBars.v19.1.resources.dll
+D:\New folder\ApartmentManage_ver2\ApartmentManage_ver2\bin\Debug\de\DevExpress.Sparkline.v19.1.Core.resources.dll
+D:\New folder\ApartmentManage_ver2\ApartmentManage_ver2\bin\Debug\es\DevExpress.Sparkline.v19.1.Core.resources.dll
+D:\New folder\ApartmentManage_ver2\ApartmentManage_ver2\bin\Debug\ja\DevExpress.Sparkline.v19.1.Core.resources.dll
+D:\New folder\ApartmentManage_ver2\ApartmentManage_ver2\bin\Debug\ru\DevExpress.Sparkline.v19.1.Core.resources.dll
+D:\New folder\ApartmentManage_ver2\ApartmentManage_ver2\bin\Debug\de\DevExpress.XtraEditors.v19.1.resources.dll
+D:\New folder\ApartmentManage_ver2\ApartmentManage_ver2\bin\Debug\es\DevExpress.XtraEditors.v19.1.resources.dll
+D:\New folder\ApartmentManage_ver2\ApartmentManage_ver2\bin\Debug\ja\DevExpress.XtraEditors.v19.1.resources.dll
+D:\New folder\ApartmentManage_ver2\ApartmentManage_ver2\bin\Debug\ru\DevExpress.XtraEditors.v19.1.resources.dll
+D:\New folder\ApartmentManage_ver2\ApartmentManage_ver2\bin\Debug\de\DevExpress.XtraNavBar.v19.1.resources.dll
+D:\New folder\ApartmentManage_ver2\ApartmentManage_ver2\bin\Debug\es\DevExpress.XtraNavBar.v19.1.resources.dll
+D:\New folder\ApartmentManage_ver2\ApartmentManage_ver2\bin\Debug\ja\DevExpress.XtraNavBar.v19.1.resources.dll
+D:\New folder\ApartmentManage_ver2\ApartmentManage_ver2\bin\Debug\ru\DevExpress.XtraNavBar.v19.1.resources.dll
+D:\New folder\ApartmentManage_ver2\ApartmentManage_ver2\bin\Debug\de\DevExpress.Pdf.v19.1.Core.resources.dll
+D:\New folder\ApartmentManage_ver2\ApartmentManage_ver2\bin\Debug\es\DevExpress.Pdf.v19.1.Core.resources.dll
+D:\New folder\ApartmentManage_ver2\ApartmentManage_ver2\bin\Debug\ja\DevExpress.Pdf.v19.1.Core.resources.dll
+D:\New folder\ApartmentManage_ver2\ApartmentManage_ver2\bin\Debug\ru\DevExpress.Pdf.v19.1.Core.resources.dll
+D:\New folder\ApartmentManage_ver2\ApartmentManage_ver2\obj\Debug\ApartmentManage_ver2.csproj.AssemblyReference.cache
+D:\New folder\ApartmentManage_ver2\ApartmentManage_ver2\obj\Debug\ApartmentManage_ver2.GUI.frmQuanLyCanHo.resources
+D:\New folder\ApartmentManage_ver2\ApartmentManage_ver2\obj\Debug\ApartmentManage_ver2.GUI.frmQuanLyHoaDonDien.resources
+D:\New folder\ApartmentManage_ver2\ApartmentManage_ver2\obj\Debug\ApartmentManage_ver2.GUI.frmQuanLyHoaDonNuoc.resources
+D:\New folder\ApartmentManage_ver2\ApartmentManage_ver2\obj\Debug\ApartmentManage_ver2.GUI.frmQuanLyHoGiaDinh.resources
+D:\New folder\ApartmentManage_ver2\ApartmentManage_ver2\obj\Debug\ApartmentManage_ver2.GUI.frmQuanLyDichVu.resources
+D:\New folder\ApartmentManage_ver2\ApartmentManage_ver2\obj\Debug\ApartmentManage_ver2.GUI.frmQuanLyHoaDonDichVu.resources
+D:\New folder\ApartmentManage_ver2\ApartmentManage_ver2\obj\Debug\ApartmentManage_ver2.GUI.frmQuanLyHopDong.resources
+D:\New folder\ApartmentManage_ver2\ApartmentManage_ver2\obj\Debug\ApartmentManage_ver2.GUI.frmQuanLyNhanVien.resources
+D:\New folder\ApartmentManage_ver2\ApartmentManage_ver2\obj\Debug\ApartmentManage_ver2.frmQuanLyTaiKhoan.resources
+D:\New folder\ApartmentManage_ver2\ApartmentManage_ver2\obj\Debug\ApartmentManage_ver2.GUI.frmDangNhap.resources
+D:\New folder\ApartmentManage_ver2\ApartmentManage_ver2\obj\Debug\ApartmentManage_ver2.GUI.frmDoiMatKhau.resources
+D:\New folder\ApartmentManage_ver2\ApartmentManage_ver2\obj\Debug\ApartmentManage_ver2.GUI.frmMain.resources
+D:\New folder\ApartmentManage_ver2\ApartmentManage_ver2\obj\Debug\ApartmentManage_ver2.GUI.frmQuanLyThanhVien.resources
+D:\New folder\ApartmentManage_ver2\ApartmentManage_ver2\obj\Debug\ApartmentManage_ver2.GUI.frmThongKeCanHo.resources
+D:\New folder\ApartmentManage_ver2\ApartmentManage_ver2\obj\Debug\ApartmentManage_ver2.GUI.frmThongKeDichVu.resources
+D:\New folder\ApartmentManage_ver2\ApartmentManage_ver2\obj\Debug\ApartmentManage_ver2.GUI.frmThongKeDoanhThu.resources
+D:\New folder\ApartmentManage_ver2\ApartmentManage_ver2\obj\Debug\ApartmentManage_ver2.GUI.frmThongKeTienDien.resources
+D:\New folder\ApartmentManage_ver2\ApartmentManage_ver2\obj\Debug\ApartmentManage_ver2.GUI.frmThongKeTienNuoc.resources
+D:\New folder\ApartmentManage_ver2\ApartmentManage_ver2\obj\Debug\ApartmentManage_ver2.GUI.frmThongTin.resources
+D:\New folder\ApartmentManage_ver2\ApartmentManage_ver2\obj\Debug\ApartmentManage_ver2.GUI.frmTraCuuHoGiaDinh.resources
+D:\New folder\ApartmentManage_ver2\ApartmentManage_ver2\obj\Debug\ApartmentManage_ver2.GUI.frmTroGiup.resources
+D:\New folder\ApartmentManage_ver2\ApartmentManage_ver2\obj\Debug\ApartmentManage_ver2.Properties.Resources.resources
+D:\New folder\ApartmentManage_ver2\ApartmentManage_ver2\obj\Debug\ApartmentManage_ver2.csproj.GenerateResource.cache
+D:\New folder\ApartmentManage_ver2\ApartmentManage_ver2\obj\Debug\ApartmentManage_ver2.exe.licenses
+D:\New folder\ApartmentManage_ver2\ApartmentManage_ver2\obj\Debug\ApartmentManage_ver2.csproj.CoreCompileInputs.cache
+D:\New folder\ApartmentManage_ver2\ApartmentManage_ver2\obj\Debug\ApartmentManage_ver2.csproj.CopyComplete
+D:\New folder\ApartmentManage_ver2\ApartmentManage_ver2\obj\Debug\ApartmentManage_ver2.exe
+D:\New folder\ApartmentManage_ver2\ApartmentManage_ver2\obj\Debug\ApartmentManage_ver2.pdb
+D:\CDIO3\ApartmentManage_ver2\ApartmentManage_ver2\bin\Debug\GUI\Report5.rdlc
+D:\CDIO3\ApartmentManage_ver2\ApartmentManage_ver2\bin\Debug\GUI\frmThongKeDichVu.resx
+D:\CDIO3\ApartmentManage_ver2\ApartmentManage_ver2\bin\Debug\GUI\frmThongKeTienDien.resx
+D:\CDIO3\ApartmentManage_ver2\ApartmentManage_ver2\bin\Debug\GUI\frmThongKeTienNuoc.resx
+D:\CDIO3\ApartmentManage_ver2\ApartmentManage_ver2\bin\Debug\GUI\frmThongKeDichVu.cs
+D:\CDIO3\ApartmentManage_ver2\ApartmentManage_ver2\bin\Debug\GUI\frmThongKeDichVu.Designer.cs
+D:\CDIO3\ApartmentManage_ver2\ApartmentManage_ver2\bin\Debug\GUI\frmThongKeTienDien.cs
+D:\CDIO3\ApartmentManage_ver2\ApartmentManage_ver2\bin\Debug\GUI\frmThongKeTienDien.Designer.cs
+D:\CDIO3\ApartmentManage_ver2\ApartmentManage_ver2\bin\Debug\GUI\frmThongKeTienNuoc.cs
+D:\CDIO3\ApartmentManage_ver2\ApartmentManage_ver2\bin\Debug\GUI\frmThongKeTienNuoc.Designer.cs
+D:\CDIO3\ApartmentManage_ver2\ApartmentManage_ver2\bin\Debug\GUI\Report1.rdlc
+D:\CDIO3\ApartmentManage_ver2\ApartmentManage_ver2\bin\Debug\GUI\Report2.rdlc
+D:\CDIO3\ApartmentManage_ver2\ApartmentManage_ver2\bin\Debug\GUI\Report3.rdlc
+D:\CDIO3\ApartmentManage_ver2\ApartmentManage_ver2\bin\Debug\GUI\Report4.rdlc
+D:\CDIO3\ApartmentManage_ver2\ApartmentManage_ver2\bin\Debug\ApartmentManage_ver2.exe.config
+D:\CDIO3\ApartmentManage_ver2\ApartmentManage_ver2\bin\Debug\ApartmentManage_ver2.exe
+D:\CDIO3\ApartmentManage_ver2\ApartmentManage_ver2\bin\Debug\ApartmentManage_ver2.pdb
+D:\CDIO3\ApartmentManage_ver2\ApartmentManage_ver2\obj\Debug\ApartmentManage_ver2.csproj.AssemblyReference.cache
+D:\CDIO3\ApartmentManage_ver2\ApartmentManage_ver2\obj\Debug\ApartmentManage_ver2.GUI.frmQuanLyCanHo.resources
+D:\CDIO3\ApartmentManage_ver2\ApartmentManage_ver2\obj\Debug\ApartmentManage_ver2.GUI.frmQuanLyHoaDonDien.resources
+D:\CDIO3\ApartmentManage_ver2\ApartmentManage_ver2\obj\Debug\ApartmentManage_ver2.GUI.frmQuanLyHoaDonNuoc.resources
+D:\CDIO3\ApartmentManage_ver2\ApartmentManage_ver2\obj\Debug\ApartmentManage_ver2.GUI.frmQuanLyHoGiaDinh.resources
+D:\CDIO3\ApartmentManage_ver2\ApartmentManage_ver2\obj\Debug\ApartmentManage_ver2.GUI.frmQuanLyDichVu.resources
+D:\CDIO3\ApartmentManage_ver2\ApartmentManage_ver2\obj\Debug\ApartmentManage_ver2.GUI.frmQuanLyHoaDonDichVu.resources
+D:\CDIO3\ApartmentManage_ver2\ApartmentManage_ver2\obj\Debug\ApartmentManage_ver2.GUI.frmQuanLyHopDong.resources
+D:\CDIO3\ApartmentManage_ver2\ApartmentManage_ver2\obj\Debug\ApartmentManage_ver2.GUI.frmQuanLyNhanVien.resources
+D:\CDIO3\ApartmentManage_ver2\ApartmentManage_ver2\obj\Debug\ApartmentManage_ver2.frmQuanLyTaiKhoan.resources
+D:\CDIO3\ApartmentManage_ver2\ApartmentManage_ver2\obj\Debug\ApartmentManage_ver2.GUI.frmDangNhap.resources
+D:\CDIO3\ApartmentManage_ver2\ApartmentManage_ver2\obj\Debug\ApartmentManage_ver2.GUI.frmDoiMatKhau.resources
+D:\CDIO3\ApartmentManage_ver2\ApartmentManage_ver2\obj\Debug\ApartmentManage_ver2.GUI.frmMain.resources
+D:\CDIO3\ApartmentManage_ver2\ApartmentManage_ver2\obj\Debug\ApartmentManage_ver2.GUI.frmQuanLyThanhVien.resources
+D:\CDIO3\ApartmentManage_ver2\ApartmentManage_ver2\obj\Debug\ApartmentManage_ver2.GUI.frmThongKeCanHo.resources
+D:\CDIO3\ApartmentManage_ver2\ApartmentManage_ver2\obj\Debug\ApartmentManage_ver2.GUI.frmThongKeDichVu.resources
+D:\CDIO3\ApartmentManage_ver2\ApartmentManage_ver2\obj\Debug\ApartmentManage_ver2.GUI.frmThongKeDoanhThu.resources
+D:\CDIO3\ApartmentManage_ver2\ApartmentManage_ver2\obj\Debug\ApartmentManage_ver2.GUI.frmThongKeTienDien.resources
+D:\CDIO3\ApartmentManage_ver2\ApartmentManage_ver2\obj\Debug\ApartmentManage_ver2.GUI.frmThongKeTienNuoc.resources
+D:\CDIO3\ApartmentManage_ver2\ApartmentManage_ver2\obj\Debug\ApartmentManage_ver2.GUI.frmThongTin.resources
+D:\CDIO3\ApartmentManage_ver2\ApartmentManage_ver2\obj\Debug\ApartmentManage_ver2.GUI.frmTraCuuHoGiaDinh.resources
+D:\CDIO3\ApartmentManage_ver2\ApartmentManage_ver2\obj\Debug\ApartmentManage_ver2.GUI.frmTroGiup.resources
+D:\CDIO3\ApartmentManage_ver2\ApartmentManage_ver2\obj\Debug\ApartmentManage_ver2.Properties.Resources.resources
+D:\CDIO3\ApartmentManage_ver2\ApartmentManage_ver2\obj\Debug\ApartmentManage_ver2.csproj.GenerateResource.cache
+D:\CDIO3\ApartmentManage_ver2\ApartmentManage_ver2\obj\Debug\ApartmentManage_ver2.exe.licenses
+D:\CDIO3\ApartmentManage_ver2\ApartmentManage_ver2\obj\Debug\ApartmentManage_ver2.csproj.CoreCompileInputs.cache
+D:\CDIO3\ApartmentManage_ver2\ApartmentManage_ver2\obj\Debug\ApartmentManage_ver2.csproj.CopyComplete
+D:\CDIO3\ApartmentManage_ver2\ApartmentManage_ver2\obj\Debug\ApartmentManage_ver2.exe
+D:\CDIO3\ApartmentManage_ver2\ApartmentManage_ver2\obj\Debug\ApartmentManage_ver2.pdb
+D:\doAn3\CDIO3\ApartmentManage_ver2\ApartmentManage_ver2\bin\Debug\GUI\Report5.rdlc
+D:\doAn3\CDIO3\ApartmentManage_ver2\ApartmentManage_ver2\bin\Debug\GUI\frmThongKeDichVu.resx
+D:\doAn3\CDIO3\ApartmentManage_ver2\ApartmentManage_ver2\bin\Debug\GUI\frmThongKeTienDien.resx
+D:\doAn3\CDIO3\ApartmentManage_ver2\ApartmentManage_ver2\bin\Debug\GUI\frmThongKeTienNuoc.resx
+D:\doAn3\CDIO3\ApartmentManage_ver2\ApartmentManage_ver2\bin\Debug\GUI\frmThongKeDichVu.cs
+D:\doAn3\CDIO3\ApartmentManage_ver2\ApartmentManage_ver2\bin\Debug\GUI\frmThongKeDichVu.Designer.cs
+D:\doAn3\CDIO3\ApartmentManage_ver2\ApartmentManage_ver2\bin\Debug\GUI\frmThongKeTienDien.cs
+D:\doAn3\CDIO3\ApartmentManage_ver2\ApartmentManage_ver2\bin\Debug\GUI\frmThongKeTienDien.Designer.cs
+D:\doAn3\CDIO3\ApartmentManage_ver2\ApartmentManage_ver2\bin\Debug\GUI\frmThongKeTienNuoc.cs
+D:\doAn3\CDIO3\ApartmentManage_ver2\ApartmentManage_ver2\bin\Debug\GUI\frmThongKeTienNuoc.Designer.cs
+D:\doAn3\CDIO3\ApartmentManage_ver2\ApartmentManage_ver2\bin\Debug\GUI\Report1.rdlc
+D:\doAn3\CDIO3\ApartmentManage_ver2\ApartmentManage_ver2\bin\Debug\GUI\Report2.rdlc
+D:\doAn3\CDIO3\ApartmentManage_ver2\ApartmentManage_ver2\bin\Debug\GUI\Report3.rdlc
+D:\doAn3\CDIO3\ApartmentManage_ver2\ApartmentManage_ver2\bin\Debug\GUI\Report4.rdlc
+D:\doAn3\CDIO3\ApartmentManage_ver2\ApartmentManage_ver2\bin\Debug\ApartmentManage_ver2.exe.config
+D:\doAn3\CDIO3\ApartmentManage_ver2\ApartmentManage_ver2\bin\Debug\ApartmentManage_ver2.exe
+D:\doAn3\CDIO3\ApartmentManage_ver2\ApartmentManage_ver2\bin\Debug\ApartmentManage_ver2.pdb
+D:\doAn3\CDIO3\ApartmentManage_ver2\ApartmentManage_ver2\obj\Debug\ApartmentManage_ver2.csproj.AssemblyReference.cache
+D:\doAn3\CDIO3\ApartmentManage_ver2\ApartmentManage_ver2\obj\Debug\ApartmentManage_ver2.GUI.frmQuanLyCanHo.resources
+D:\doAn3\CDIO3\ApartmentManage_ver2\ApartmentManage_ver2\obj\Debug\ApartmentManage_ver2.GUI.frmQuanLyHoaDonDien.resources
+D:\doAn3\CDIO3\ApartmentManage_ver2\ApartmentManage_ver2\obj\Debug\ApartmentManage_ver2.GUI.frmQuanLyHoaDonNuoc.resources
+D:\doAn3\CDIO3\ApartmentManage_ver2\ApartmentManage_ver2\obj\Debug\ApartmentManage_ver2.GUI.frmQuanLyHoGiaDinh.resources
+D:\doAn3\CDIO3\ApartmentManage_ver2\ApartmentManage_ver2\obj\Debug\ApartmentManage_ver2.GUI.frmQuanLyDichVu.resources
+D:\doAn3\CDIO3\ApartmentManage_ver2\ApartmentManage_ver2\obj\Debug\ApartmentManage_ver2.GUI.frmQuanLyHoaDonDichVu.resources
+D:\doAn3\CDIO3\ApartmentManage_ver2\ApartmentManage_ver2\obj\Debug\ApartmentManage_ver2.GUI.frmQuanLyHopDong.resources
+D:\doAn3\CDIO3\ApartmentManage_ver2\ApartmentManage_ver2\obj\Debug\ApartmentManage_ver2.GUI.frmQuanLyNhanVien.resources
+D:\doAn3\CDIO3\ApartmentManage_ver2\ApartmentManage_ver2\obj\Debug\ApartmentManage_ver2.frmQuanLyTaiKhoan.resources
+D:\doAn3\CDIO3\ApartmentManage_ver2\ApartmentManage_ver2\obj\Debug\ApartmentManage_ver2.GUI.frmDangNhap.resources
+D:\doAn3\CDIO3\ApartmentManage_ver2\ApartmentManage_ver2\obj\Debug\ApartmentManage_ver2.GUI.frmDoiMatKhau.resources
+D:\doAn3\CDIO3\ApartmentManage_ver2\ApartmentManage_ver2\obj\Debug\ApartmentManage_ver2.GUI.frmMain.resources
+D:\doAn3\CDIO3\ApartmentManage_ver2\ApartmentManage_ver2\obj\Debug\ApartmentManage_ver2.GUI.frmQuanLyThanhVien.resources
+D:\doAn3\CDIO3\ApartmentManage_ver2\ApartmentManage_ver2\obj\Debug\ApartmentManage_ver2.GUI.frmThongKeCanHo.resources
+D:\doAn3\CDIO3\ApartmentManage_ver2\ApartmentManage_ver2\obj\Debug\ApartmentManage_ver2.GUI.frmThongKeDichVu.resources
+D:\doAn3\CDIO3\ApartmentManage_ver2\ApartmentManage_ver2\obj\Debug\ApartmentManage_ver2.GUI.frmThongKeDoanhThu.resources
+D:\doAn3\CDIO3\ApartmentManage_ver2\ApartmentManage_ver2\obj\Debug\ApartmentManage_ver2.GUI.frmThongKeTienDien.resources
+D:\doAn3\CDIO3\ApartmentManage_ver2\ApartmentManage_ver2\obj\Debug\ApartmentManage_ver2.GUI.frmThongKeTienNuoc.resources
+D:\doAn3\CDIO3\ApartmentManage_ver2\ApartmentManage_ver2\obj\Debug\ApartmentManage_ver2.GUI.frmThongTin.resources
+D:\doAn3\CDIO3\ApartmentManage_ver2\ApartmentManage_ver2\obj\Debug\ApartmentManage_ver2.GUI.frmTraCuuHoGiaDinh.resources
+D:\doAn3\CDIO3\ApartmentManage_ver2\ApartmentManage_ver2\obj\Debug\ApartmentManage_ver2.GUI.frmTroGiup.resources
+D:\doAn3\CDIO3\ApartmentManage_ver2\ApartmentManage_ver2\obj\Debug\ApartmentManage_ver2.Properties.Resources.resources
+D:\doAn3\CDIO3\ApartmentManage_ver2\ApartmentManage_ver2\obj\Debug\ApartmentManage_ver2.csproj.GenerateResource.cache
+D:\doAn3\CDIO3\ApartmentManage_ver2\ApartmentManage_ver2\obj\Debug\ApartmentManage_ver2.exe.licenses
+D:\doAn3\CDIO3\ApartmentManage_ver2\ApartmentManage_ver2\obj\Debug\ApartmentManage_ver2.csproj.CoreCompileInputs.cache
+D:\doAn3\CDIO3\ApartmentManage_ver2\ApartmentManage_ver2\obj\Debug\ApartmentManage_ver2.csproj.CopyComplete
+D:\doAn3\CDIO3\ApartmentManage_ver2\ApartmentManage_ver2\obj\Debug\ApartmentManage_ver2.exe
+D:\doAn3\CDIO3\ApartmentManage_ver2\ApartmentManage_ver2\obj\Debug\ApartmentManage_ver2.pdb
+D:\quanlychungcu\ApartmentManage_ver2\ApartmentManage_ver2\bin\Debug\GUI\Report5.rdlc
+D:\quanlychungcu\ApartmentManage_ver2\ApartmentManage_ver2\bin\Debug\GUI\frmThongKeDichVu.resx
+D:\quanlychungcu\ApartmentManage_ver2\ApartmentManage_ver2\bin\Debug\GUI\frmThongKeTienDien.resx
+D:\quanlychungcu\ApartmentManage_ver2\ApartmentManage_ver2\bin\Debug\GUI\frmThongKeTienNuoc.resx
+D:\quanlychungcu\ApartmentManage_ver2\ApartmentManage_ver2\bin\Debug\GUI\frmThongKeDichVu.cs
+D:\quanlychungcu\ApartmentManage_ver2\ApartmentManage_ver2\bin\Debug\GUI\frmThongKeDichVu.Designer.cs
+D:\quanlychungcu\ApartmentManage_ver2\ApartmentManage_ver2\bin\Debug\GUI\frmThongKeTienDien.cs
+D:\quanlychungcu\ApartmentManage_ver2\ApartmentManage_ver2\bin\Debug\GUI\frmThongKeTienDien.Designer.cs
+D:\quanlychungcu\ApartmentManage_ver2\ApartmentManage_ver2\bin\Debug\GUI\frmThongKeTienNuoc.cs
+D:\quanlychungcu\ApartmentManage_ver2\ApartmentManage_ver2\bin\Debug\GUI\frmThongKeTienNuoc.Designer.cs
+D:\quanlychungcu\ApartmentManage_ver2\ApartmentManage_ver2\bin\Debug\GUI\Report1.rdlc
+D:\quanlychungcu\ApartmentManage_ver2\ApartmentManage_ver2\bin\Debug\GUI\Report2.rdlc
+D:\quanlychungcu\ApartmentManage_ver2\ApartmentManage_ver2\bin\Debug\GUI\Report3.rdlc
+D:\quanlychungcu\ApartmentManage_ver2\ApartmentManage_ver2\bin\Debug\GUI\Report4.rdlc
+D:\quanlychungcu\ApartmentManage_ver2\ApartmentManage_ver2\bin\Debug\ApartmentManage_ver2.exe.config
+D:\quanlychungcu\ApartmentManage_ver2\ApartmentManage_ver2\bin\Debug\ApartmentManage_ver2.exe
+D:\quanlychungcu\ApartmentManage_ver2\ApartmentManage_ver2\bin\Debug\ApartmentManage_ver2.pdb
+D:\quanlychungcu\ApartmentManage_ver2\ApartmentManage_ver2\obj\Debug\ApartmentManage_ver2.csproj.AssemblyReference.cache
+D:\quanlychungcu\ApartmentManage_ver2\ApartmentManage_ver2\obj\Debug\ApartmentManage_ver2.GUI.frmQuanLyCanHo.resources
+D:\quanlychungcu\ApartmentManage_ver2\ApartmentManage_ver2\obj\Debug\ApartmentManage_ver2.GUI.frmQuanLyHoaDonDien.resources
+D:\quanlychungcu\ApartmentManage_ver2\ApartmentManage_ver2\obj\Debug\ApartmentManage_ver2.GUI.frmQuanLyHoaDonNuoc.resources
+D:\quanlychungcu\ApartmentManage_ver2\ApartmentManage_ver2\obj\Debug\ApartmentManage_ver2.GUI.frmQuanLyHoGiaDinh.resources
+D:\quanlychungcu\ApartmentManage_ver2\ApartmentManage_ver2\obj\Debug\ApartmentManage_ver2.GUI.frmQuanLyDichVu.resources
+D:\quanlychungcu\ApartmentManage_ver2\ApartmentManage_ver2\obj\Debug\ApartmentManage_ver2.GUI.frmQuanLyHoaDonDichVu.resources
+D:\quanlychungcu\ApartmentManage_ver2\ApartmentManage_ver2\obj\Debug\ApartmentManage_ver2.GUI.frmQuanLyHopDong.resources
+D:\quanlychungcu\ApartmentManage_ver2\ApartmentManage_ver2\obj\Debug\ApartmentManage_ver2.GUI.frmQuanLyNhanVien.resources
+D:\quanlychungcu\ApartmentManage_ver2\ApartmentManage_ver2\obj\Debug\ApartmentManage_ver2.frmQuanLyTaiKhoan.resources
+D:\quanlychungcu\ApartmentManage_ver2\ApartmentManage_ver2\obj\Debug\ApartmentManage_ver2.GUI.frmDangNhap.resources
+D:\quanlychungcu\ApartmentManage_ver2\ApartmentManage_ver2\obj\Debug\ApartmentManage_ver2.GUI.frmDoiMatKhau.resources
+D:\quanlychungcu\ApartmentManage_ver2\ApartmentManage_ver2\obj\Debug\ApartmentManage_ver2.GUI.frmMain.resources
+D:\quanlychungcu\ApartmentManage_ver2\ApartmentManage_ver2\obj\Debug\ApartmentManage_ver2.GUI.frmQuanLyThanhVien.resources
+D:\quanlychungcu\ApartmentManage_ver2\ApartmentManage_ver2\obj\Debug\ApartmentManage_ver2.GUI.frmThongKeCanHo.resources
+D:\quanlychungcu\ApartmentManage_ver2\ApartmentManage_ver2\obj\Debug\ApartmentManage_ver2.GUI.frmThongKeDichVu.resources
+D:\quanlychungcu\ApartmentManage_ver2\ApartmentManage_ver2\obj\Debug\ApartmentManage_ver2.GUI.frmThongKeDoanhThu.resources
+D:\quanlychungcu\ApartmentManage_ver2\ApartmentManage_ver2\obj\Debug\ApartmentManage_ver2.GUI.frmThongKeTienDien.resources
+D:\quanlychungcu\ApartmentManage_ver2\ApartmentManage_ver2\obj\Debug\ApartmentManage_ver2.GUI.frmThongKeTienNuoc.resources
+D:\quanlychungcu\ApartmentManage_ver2\ApartmentManage_ver2\obj\Debug\ApartmentManage_ver2.GUI.frmThongTin.resources
+D:\quanlychungcu\ApartmentManage_ver2\ApartmentManage_ver2\obj\Debug\ApartmentManage_ver2.GUI.frmTraCuuHoGiaDinh.resources
+D:\quanlychungcu\ApartmentManage_ver2\ApartmentManage_ver2\obj\Debug\ApartmentManage_ver2.GUI.frmTroGiup.resources
+D:\quanlychungcu\ApartmentManage_ver2\ApartmentManage_ver2\obj\Debug\ApartmentManage_ver2.Properties.Resources.resources
+D:\quanlychungcu\ApartmentManage_ver2\ApartmentManage_ver2\obj\Debug\ApartmentManage_ver2.csproj.GenerateResource.cache
+D:\quanlychungcu\ApartmentManage_ver2\ApartmentManage_ver2\obj\Debug\ApartmentManage_ver2.exe.licenses
+D:\quanlychungcu\ApartmentManage_ver2\ApartmentManage_ver2\obj\Debug\ApartmentManage_ver2.csproj.CoreCompileInputs.cache
+D:\quanlychungcu\ApartmentManage_ver2\ApartmentManage_ver2\obj\Debug\ApartmentManage_ver2.csproj.CopyComplete
+D:\quanlychungcu\ApartmentManage_ver2\ApartmentManage_ver2\obj\Debug\ApartmentManage_ver2.exe
+D:\quanlychungcu\ApartmentManage_ver2\ApartmentManage_ver2\obj\Debug\ApartmentManage_ver2.pdb
